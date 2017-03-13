@@ -6,5 +6,5 @@ Add a given suffix to the names of all files in the folder the script is run in.
 
 Add `@2x` to the names of all files (for example images) in a folder:
 ```
-$ marathon run addSuffix "@2x"
+$ marathon run ~/scripts/addSuffix "@2x"
 ```
