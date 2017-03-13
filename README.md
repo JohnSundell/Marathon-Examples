@@ -14,13 +14,13 @@ For more information about Marathon and how to install it, **[visit its reposito
 
 Add a suffix to the names of all files in a folder.
 
-**[Organize](https://github.com/JohnSundell/Marathon-Examples/tree/master/Organize)**
-
-Organize all files in a folder.
-
 **[ImageResize](https://github.com/JohnSundell/Marathon-Examples/tree/master/ImageResize)**
 
 Resize an image to a new size.
+
+**[Organize](https://github.com/JohnSundell/Marathon-Examples/tree/master/Organize)**
+
+Organize all files in a folder.
 
 ## Contribute your own examples
 
