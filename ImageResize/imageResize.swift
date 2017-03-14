@@ -19,7 +19,7 @@ private extension CGContext {
 
 // MARK: - Parsing arguments
 
-let arguments = ProcessInfo.processInfo.arguments
+let arguments = CommandLine.arguments
 
 guard arguments.count > 3 else {
     print("👮  Expected 3 arguments: image path, target width & target height")

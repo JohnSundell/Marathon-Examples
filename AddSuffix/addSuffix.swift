@@ -1,7 +1,7 @@
 import Foundation
 import Files
 
-let arguments = ProcessInfo.processInfo.arguments
+let arguments = CommandLine.arguments
 
 guard arguments.count > 1 else {
     print("👮  No suffix given")
