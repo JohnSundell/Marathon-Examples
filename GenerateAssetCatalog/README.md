@@ -13,3 +13,5 @@ Run in a folder to generate an asset catalog with a custom name:
 ```
 $ marathon run ~/scripts/generateAssetCatalog MyCatalog
 ```
+
+*For more information about Marathon and how to install it, **[visit its repository](https://github.com/johnsundell/marathon)**.*
