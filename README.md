@@ -22,6 +22,10 @@ Resize an image to a new size.
 
 Organize all files in a folder.
 
+**[GenerateAssetCatalog](https://github.com/JohnSundell/Marathon-Examples/tree/master/GenerateAssetCatalog)**
+
+Generate an Xcode asset catalog from all the images in the current folder.
+
 ## Contribute your own examples
 
 Have an example of a Swift script that you'd like to share? Feel free to [open a PR](https://github.com/JohnSundell/Marathon-Examples/pull/new/master)!
