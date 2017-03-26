@@ -127,3 +127,5 @@ for file in folder.files {
     metadata.images.append(image)
     try imageSet.createFile(named: MetadataFileName, contents: wrap(metadata))
 }
+
+print("✅  Generated \(catalogName)")
