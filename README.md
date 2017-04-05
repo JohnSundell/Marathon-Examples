@@ -26,6 +26,10 @@ Organize all files in a folder.
 
 Generate an Xcode asset catalog from all the images in the current folder.
 
+**[VerifyAsserts](https://github.com/JohnSundell/Marathon-Examples/tree/master/VerifyAsserts)**
+
+Verify that all your tests contain at least one assert.
+
 ## Contribute your own examples
 
 Have an example of a Swift script that you'd like to share? Feel free to [open a PR](https://github.com/JohnSundell/Marathon-Examples/pull/new/master)!
