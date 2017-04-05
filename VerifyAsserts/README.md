@@ -1,7 +1,7 @@
 # VerifyAsserts
 
 Verify that all your tests contain at least one assert.
-Supports tests written in Swift & Objective-C using Apple's XCTest framework.
+Supports tests written in Swift or Objective-C using Apple's XCTest framework.
 
 **Example**
 
