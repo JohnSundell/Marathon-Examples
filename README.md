@@ -26,6 +26,10 @@ Resize an image to a new size.
 
 Organize all files in a folder.
 
+**[Selenops](https://github.com/JohnSundell/Marathon-Examples/tree/master/GenerateAssetCatalog)**
+
+A simple Swift Web Crawler.
+
 
 **[VerifyAsserts](https://github.com/JohnSundell/Marathon-Examples/tree/master/VerifyAsserts)**
 
