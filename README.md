@@ -14,6 +14,10 @@ For more information about Marathon and how to install it, **[visit its reposito
 
 Add a suffix to the names of all files in a folder.
 
+**[GenerateAssetCatalog](https://github.com/JohnSundell/Marathon-Examples/tree/master/GenerateAssetCatalog)**
+
+Generate an Xcode asset catalog from all the images in the current folder.
+
 **[ImageResize](https://github.com/JohnSundell/Marathon-Examples/tree/master/ImageResize)**
 
 Resize an image to a new size.
@@ -22,9 +26,9 @@ Resize an image to a new size.
 
 Organize all files in a folder.
 
-**[GenerateAssetCatalog](https://github.com/JohnSundell/Marathon-Examples/tree/master/GenerateAssetCatalog)**
+**[Selenops](https://github.com/JohnSundell/Marathon-Examples/tree/master/Selenops)**
 
-Generate an Xcode asset catalog from all the images in the current folder.
+A simple Swift Web Crawler.
 
 **[VerifyAsserts](https://github.com/JohnSundell/Marathon-Examples/tree/master/VerifyAsserts)**
 
