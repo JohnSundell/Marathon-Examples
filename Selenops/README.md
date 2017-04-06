@@ -2,13 +2,7 @@
 
 Crawl the Web looking for a word of your choice.
 
-**Installing**
-
-[Download](https://github.com/zntfdr/Selenops/archive/master.zip) or clone the [original repo](https://github.com/zntfdr/Selenops):
-
-```
-$ git clone git@github.com:zntfdr/Selenops.git
-```
+You can find the script in its repo here: [https://github.com/zntfdr/Selenops](https://github.com/zntfdr/Selenops).
 
 **Example**
 
