@@ -14,6 +14,10 @@ For more information about Marathon and how to install it, **[visit its reposito
 
 Add a suffix to the names of all files in a folder.
 
+**[CountLines](https://github.com/JohnSundell/Marathon-Examples/tree/master/CountLines)**
+
+Count the nonempty lines in files found in the current working directory. The query will recurively include all subfolders. Optionally restrict your query to a given file type.
+
 **[GenerateAssetCatalog](https://github.com/JohnSundell/Marathon-Examples/tree/master/GenerateAssetCatalog)**
 
 Generate an Xcode asset catalog from all the images in the current folder.
